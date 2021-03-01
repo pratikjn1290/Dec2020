@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="4" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="4" name="ProductInfoTest(failed)">
+    <classes>
+      <class name="com.qa.opencart.tests.ProductInfoTest">
+        <methods>
+          <include name="setupBrowser"/>
+          <include name="verifyProductInfoTest"/>
+          <include name="closeBrowser"/>
+          <include name="productInfoSetUp"/>
+        </methods>
+      </class> <!-- com.qa.opencart.tests.ProductInfoTest -->
+    </classes>
+  </test> <!-- ProductInfoTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

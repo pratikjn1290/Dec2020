@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="17" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-28T11:45:23Z" name="Suite" finished-at="2021-02-28T11:45:55Z" duration-ms="32033">
+    <groups>
+    </groups>
+    <test started-at="2021-02-28T11:45:23Z" name="AccountPageTest" finished-at="2021-02-28T11:45:50Z" duration-ms="26403">
+      <class name="com.qa.opencart.tests.AccountPageTest">
+        <test-method is-config="true" signature="setupBrowser()[pri:0, instance:com.qa.opencart.tests.AccountPageTest@1603dc2f]" started-at="2021-02-28T11:45:23Z" name="setupBrowser" finished-at="2021-02-28T11:45:39Z" duration-ms="15934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method is-config="true" signature="accountPageSetUp()[pri:0, instance:com.qa.opencart.tests.AccountPageTest@1603dc2f]" started-at="2021-02-28T11:45:39Z" name="accountPageSetUp" finished-at="2021-02-28T11:45:44Z" duration-ms="4466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountPageSetUp -->
+        <test-method signature="accountPageTitleTest()[pri:1, instance:com.qa.opencart.tests.AccountPageTest@1603dc2f]" started-at="2021-02-28T11:45:44Z" name="accountPageTitleTest" finished-at="2021-02-28T11:45:44Z" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountPageTitleTest -->
+        <test-method signature="rightSideMenu()[pri:2, instance:com.qa.opencart.tests.AccountPageTest@1603dc2f]" started-at="2021-02-28T11:45:44Z" name="rightSideMenu" finished-at="2021-02-28T11:45:44Z" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rightSideMenu -->
+        <test-method signature="accountPageUrlTest()[pri:3, instance:com.qa.opencart.tests.AccountPageTest@1603dc2f]" started-at="2021-02-28T11:45:44Z" name="accountPageUrlTest" finished-at="2021-02-28T11:45:44Z" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountPageUrlTest -->
+        <test-method signature="totalSectionTest()[pri:4, instance:com.qa.opencart.tests.AccountPageTest@1603dc2f]" started-at="2021-02-28T11:45:44Z" name="totalSectionTest" finished-at="2021-02-28T11:45:44Z" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalSectionTest -->
+        <test-method signature="accountPageLogoTest()[pri:5, instance:com.qa.opencart.tests.AccountPageTest@1603dc2f]" started-at="2021-02-28T11:45:44Z" name="accountPageLogoTest" finished-at="2021-02-28T11:45:45Z" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountPageLogoTest -->
+        <test-method signature="accountSectionList()[pri:6, instance:com.qa.opencart.tests.AccountPageTest@1603dc2f]" started-at="2021-02-28T11:45:45Z" name="accountSectionList" finished-at="2021-02-28T11:45:45Z" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountSectionList -->
+        <test-method signature="accountBreadCrumTest()[pri:7, instance:com.qa.opencart.tests.AccountPageTest@1603dc2f]" started-at="2021-02-28T11:45:45Z" name="accountBreadCrumTest" finished-at="2021-02-28T11:45:45Z" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountBreadCrumTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.opencart.tests.AccountPageTest@1603dc2f]" started-at="2021-02-28T11:45:45Z" name="closeBrowser" finished-at="2021-02-28T11:45:50Z" duration-ms="4637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.opencart.tests.AccountPageTest -->
+    </test> <!-- AccountPageTest -->
+    <test started-at="2021-02-28T11:45:23Z" name="loginPageTest" finished-at="2021-02-28T11:45:50Z" duration-ms="26561">
+      <class name="com.qa.opencart.tests.LoginPageTest">
+        <test-method is-config="true" signature="setupBrowser()[pri:0, instance:com.qa.opencart.tests.LoginPageTest@878537d]" started-at="2021-02-28T11:45:23Z" name="setupBrowser" finished-at="2021-02-28T11:45:37Z" duration-ms="13334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.qa.opencart.tests.LoginPageTest@878537d]" started-at="2021-02-28T11:45:37Z" name="loginPageTitleTest" finished-at="2021-02-28T11:45:38Z" duration-ms="863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method signature="forgotPasswordlnkTest()[pri:2, instance:com.qa.opencart.tests.LoginPageTest@878537d]" started-at="2021-02-28T11:45:39Z" name="forgotPasswordlnkTest" finished-at="2021-02-28T11:45:40Z" duration-ms="962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPasswordlnkTest -->
+        <test-method signature="urlTest()[pri:3, instance:com.qa.opencart.tests.LoginPageTest@878537d]" started-at="2021-02-28T11:45:40Z" name="urlTest" finished-at="2021-02-28T11:45:40Z" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlTest -->
+        <test-method signature="doLoginTest()[pri:4, instance:com.qa.opencart.tests.LoginPageTest@878537d]" started-at="2021-02-28T11:45:40Z" name="doLoginTest" finished-at="2021-02-28T11:45:44Z" duration-ms="4005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLoginTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.opencart.tests.LoginPageTest@878537d]" started-at="2021-02-28T11:45:44Z" name="closeBrowser" finished-at="2021-02-28T11:45:50Z" duration-ms="6237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.opencart.tests.LoginPageTest -->
+    </test> <!-- loginPageTest -->
+    <test started-at="2021-02-28T11:45:23Z" name="ProductSearchTest" finished-at="2021-02-28T11:45:50Z" duration-ms="26800">
+      <class name="com.qa.opencart.tests.ProductSearchTest">
+        <test-method is-config="true" signature="setupBrowser()[pri:0, instance:com.qa.opencart.tests.ProductSearchTest@1e9804b9]" started-at="2021-02-28T11:45:23Z" name="setupBrowser" finished-at="2021-02-28T11:45:37Z" duration-ms="13186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method is-config="true" signature="productSearchSetup()[pri:0, instance:com.qa.opencart.tests.ProductSearchTest@1e9804b9]" started-at="2021-02-28T11:45:37Z" name="productSearchSetup" finished-at="2021-02-28T11:45:47Z" duration-ms="10169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productSearchSetup -->
+        <test-method signature="searchProductUrlTest()[pri:0, instance:com.qa.opencart.tests.ProductSearchTest@1e9804b9]" started-at="2021-02-28T11:45:47Z" name="searchProductUrlTest" finished-at="2021-02-28T11:45:47Z" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductUrlTest -->
+        <test-method signature="searchProductTitleTest()[pri:1, instance:com.qa.opencart.tests.ProductSearchTest@1e9804b9]" started-at="2021-02-28T11:45:47Z" name="searchProductTitleTest" finished-at="2021-02-28T11:45:47Z" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductTitleTest -->
+        <test-method signature="searchProductCount()[pri:2, instance:com.qa.opencart.tests.ProductSearchTest@1e9804b9]" started-at="2021-02-28T11:45:47Z" name="searchProductCount" finished-at="2021-02-28T11:45:47Z" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductCount -->
+        <test-method signature="breadcrumbTest()[pri:3, instance:com.qa.opencart.tests.ProductSearchTest@1e9804b9]" started-at="2021-02-28T11:45:47Z" name="breadcrumbTest" finished-at="2021-02-28T11:45:47Z" duration-ms="419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- breadcrumbTest -->
+        <test-method signature="searchBoxDisplayedTest()[pri:4, instance:com.qa.opencart.tests.ProductSearchTest@1e9804b9]" started-at="2021-02-28T11:45:47Z" name="searchBoxDisplayedTest" finished-at="2021-02-28T11:45:48Z" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBoxDisplayedTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.opencart.tests.ProductSearchTest@1e9804b9]" started-at="2021-02-28T11:45:48Z" name="closeBrowser" finished-at="2021-02-28T11:45:50Z" duration-ms="2634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.opencart.tests.ProductSearchTest -->
+    </test> <!-- ProductSearchTest -->
+    <test started-at="2021-02-28T11:45:23Z" name="ProductInfoTest" finished-at="2021-02-28T11:45:55Z" duration-ms="32028">
+      <class name="com.qa.opencart.tests.ProductInfoTest">
+        <test-method is-config="true" signature="setupBrowser()[pri:0, instance:com.qa.opencart.tests.ProductInfoTest@41c204a0]" started-at="2021-02-28T11:45:23Z" name="setupBrowser" finished-at="2021-02-28T11:45:35Z" duration-ms="11844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method is-config="true" signature="productInfoSetUp()[pri:0, instance:com.qa.opencart.tests.ProductInfoTest@41c204a0]" started-at="2021-02-28T11:45:35Z" name="productInfoSetUp" finished-at="2021-02-28T11:45:42Z" duration-ms="6797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productInfoSetUp -->
+        <test-method signature="verifyProductInfoTest()[pri:0, instance:com.qa.opencart.tests.ProductInfoTest@41c204a0]" started-at="2021-02-28T11:45:42Z" name="verifyProductInfoTest" finished-at="2021-02-28T11:45:51Z" duration-ms="8681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductInfoTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.opencart.tests.ProductInfoTest@41c204a0]" started-at="2021-02-28T11:45:51Z" name="closeBrowser" finished-at="2021-02-28T11:45:55Z" duration-ms="4619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.opencart.tests.ProductInfoTest -->
+    </test> <!-- ProductInfoTest -->
+  </suite> <!-- Suite -->
+</testng-results>
